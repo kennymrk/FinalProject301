@@ -109,21 +109,7 @@ body {
   background-repeat: no-repeat;
 }
 
-/* LOCATION */
-.location {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  text-align: center;
-  color: white;
-  text-decoration: bold;
-  font-size: 13px;
-  display: flex;
-  padding: 10px;
-  align-items: center;
-  justify-content: center;
-  background: rgba(0, 0, 0, 1);
-}
+
 
 /* FOOTER */
 
