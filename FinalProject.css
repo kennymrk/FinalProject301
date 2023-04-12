@@ -238,7 +238,8 @@ a:hover {
 #coverTitle {
   text-align: center;
   font-size: 50px;
-  font-family: cursive;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   letter-spacing: 8px;
   color: white;
   max-width: 100%;
@@ -249,7 +250,8 @@ a:hover {
   font-size: 20px;
   color: white;
   text-align: center;
-  font-family: cursive;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 /* BUTTON */
