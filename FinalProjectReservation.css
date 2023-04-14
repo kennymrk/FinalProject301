@@ -110,10 +110,15 @@ body {
   font-family: "Times New Roman", Times, serif;
 }
 
-/* LABAL */
+/* LABEL */
 label {
   color: white;
 }
+
+.textbox {
+  width: 100px;
+}
+
 
 /* FOOTER */
 
